@@ -1,0 +1,167 @@
+@media screen and (max-width: 576px) {
+    #navbar {
+        display: none;
+    }
+
+    .display-sm-flex {
+        display: flex;
+    }
+
+    .width-sm-100 {
+        width: 100%;
+    }
+
+    .margin-sm-left-8px {
+        margin-left: 8px;
+    }
+
+    input[placeholder="Email@"] {
+        width: 180px;
+    }
+
+    .email-sm-box {
+        width: 220px;
+    }
+
+    
+    .mail-box-dimension-sm {
+        width: 90%;
+        height: 250px;
+        border: 2px solid rgb(239, 239, 239);
+        padding: 1%;
+        border-radius: 5px;
+        box-shadow: 0 5px 8px 5px rgb(235, 235, 235);
+    }
+
+    .justify-content-center-sm {
+        justify-content: center;
+    }
+
+    .align-items-center-sm {
+        align-items: center;
+    }
+
+    .flex-sm-column {
+        flex-direction: column;
+    }
+
+    .display-sm-none {
+        display: none;
+    }
+
+    .display-sm-contents {
+        display: contents;
+    }
+
+    .justify-content-sm-space-between {
+        justify-content: space-between;
+    }
+
+    .margin-sm-top-30px {
+        margin-top: 30px;
+    }
+
+    .margin-sm-top-50 {
+        margin-top: 50%;
+    }
+
+
+}
+
+
+@media screen and (min-width: 577px) and (max-width: 768px) {
+    #navbar {
+        display: none;
+    }
+
+    .width-md-40 {
+        width: 40%;
+    }
+
+    .width-md-100 {
+        width: 100%;
+    }
+
+    
+    .width-md-80 {
+        width: 80%;
+    }
+
+    .margin-md-top-30px {
+        margin-top: 30px;
+    }
+
+    
+    .margin-md-top-30 {
+        margin-top: 30%;
+    }
+
+    .width-md-70 {
+        width: 70%;
+    }
+
+    .justify-content-start-md {
+        justify-content: start;
+    }
+
+    .justify-content-md-space-between {
+        justify-content: space-between;
+    }
+
+    
+    .justify-content-md-space-around {
+        justify-content: space-around;
+    }
+
+    
+    .mail-box-dimension-sm {
+        height: 270px;
+        border: 2px solid rgb(239, 239, 239);
+        padding: 1%;
+        border-radius: 5px;
+        box-shadow: 0 5px 8px 5px rgb(235, 235, 235);
+    }
+
+    .flex-md-column {
+        flex-direction: column;
+    }
+
+    
+    .display-md-none {
+        display: none;
+    }
+
+    .align-items-center-md {
+        align-items: center;
+    }
+
+    .justify-content-center-md {
+        justify-content: center;
+    }
+
+    .justify-content-start-md {
+        justify-content: start;
+    }
+
+    .margin-md-left-5 {
+        margin-left: 5%;
+    }
+
+    
+    .display-md-contents {
+        display: contents;
+    }
+
+    .flex-md-column {
+        flex-direction: column;
+    }
+
+    .display-md-flex {
+        display: flex;
+    }
+
+    .margin-md-left-10px {
+        margin-left: 10px;
+    }
+
+}
